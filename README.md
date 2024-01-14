@@ -338,7 +338,7 @@ The DDR4 Memory Part is selected as `MT40A512M16HA-083E` which is compatible wit
 
 The DDR4 is configured for a Memory Speed of **833**ps -> 1200MHz -> 2400 MT/s Transfer Rate. The DDR4 reference clock is **9996**ps -> 100.04MHz. [CAS Latency](https://en.wikipedia.org/wiki/CAS_latency) is set to **16** and CAS Write Latency is set to **12**.
 
-*AGenchev* has had success [running the board at a **750**ps -> 1333MHz -> 2666 MT/s Transfer Rate](https://github.com/mwrnd/innova2_flex_xcku15p_notes/issues/8#issuecomment-1889973191).
+[*AGenchev*](https://github.com/AGenchev) has had success [running the board at a **750**ps -> 1333MHz -> 2666 MT/s Transfer Rate](https://github.com/mwrnd/innova2_flex_xcku15p_notes/issues/8#issuecomment-1889973191).
 
 ![DDR4 Basic Configuration](img/DDR4_Settings-Basic.png)
 
