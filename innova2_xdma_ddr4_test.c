@@ -2,7 +2,7 @@
 
 Prerequisites:
  - Vivado PCIe XDMA and DDR4 AXI Demo Project:
-   github.com/mwrnd/innova2_8gb_adlt_xdma_ddr4_demo
+   github.com/mwrnd/innova2_4gb_adlt_xdma_ddr4_demo
  - XDMA Drivers from github.com/xilinx/dma_ip_drivers
    Install Instructions at github.com/mwrnd/innova2_flex_xcku15p_notes
 
